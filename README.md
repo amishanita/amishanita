@@ -65,7 +65,7 @@ flowchart LR
 | 社内IT / Corporate IT | 問い合わせ対応、IT資産管理（kintone、Kizuku）、OBIC7 のデータ移行支援 | 問い合わせ管理、FAQ、AIヘルプデスク |
 | クラウド / Cloud | 学習中 / learning | AWS（VPC, EC2, ALB, RDS, ElastiCache, S3, IAM, Lightsail, CloudWatch） |
 | IaC・自動化 / IaC & automation | Excel（VLOOKUP、ピボット、VBA） | Terraform、GitHub Actions、Docker Compose、バックアップの自動化 |
-| 運用ドキュメント / Ops docs | 作業手順の統一と新人教育 | 構築手順書・運用手順書・障害対応手順書（日本語） |
+| 運用ドキュメント / Ops docs | 作業手順の統一と引き継ぎ | 構築手順書・運用手順書・障害対応手順書（日本語） |
 
 ---
 
@@ -200,7 +200,7 @@ A simple task app with Japanese, English and Nepali switching, built in plain Ja
 |---|---|---|
 | 2025.06〜現在 | **ITヘルプデスク・テクニカルサポート**<br>IT Helpdesk / Tech Support | 問い合わせ対応と切り分け、Intune・Autopilot によるキッティング、IT資産管理、OBIC7 のデータ移行支援、購買事務 |
 | 2023.12〜2025.05 | **テクニカルサポート**（携帯ショップ）<br>Technical Support | 端末不具合の切り分け、初期設定、データ移行 |
-| 2021.04〜2023.12 | **品質管理・出荷前検査／チームリーダー**<br>Quality Control / Team Leader | 検査と記録、不良の報告、15名のチーム管理と新人教育、作業手順の改善 |
+| 2021.04〜2023.12 | **品質管理・出荷前検査／チームリーダー**<br>Quality Control / Team Leader | 検査と記録、不良の報告、15名のチーム管理（作業割り当て・進捗管理）、作業手順の改善 |
 
 ---
 
